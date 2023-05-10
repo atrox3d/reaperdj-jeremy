@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.68/win64" 1683711712
+<REAPER_PROJECT 0.1 "6.68/win64" 1683711875
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,7 +17,7 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   CURSOR 0
-  ZOOM 6.94983152222569 0 0
+  ZOOM 3.27605841196311 0 0
   VZOOMEX 13 0
   USE_REC_CFG 0
   RECMODE 1
@@ -197,7 +197,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 -1 -1 -1
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -211,7 +211,7 @@
     <ITEM
       POSITION 4.24594526578005
       SNAPOFFS 0
-      LENGTH 317.98171217186956
+      LENGTH 0.97928388228988
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
@@ -226,6 +226,293 @@
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
       GUID {E216F8AC-BAF4-4060-8A20-DB63511D68CF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 5.22522914806993
+      SNAPOFFS 0
+      LENGTH 15.67568744420979
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33554176 R
+      SEL 0
+      IGUID {20A2C533-6C56-43E2-9C2B-2A2F9DBC8B68}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 1.25057171042031
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0DC76606-0201-44E8-810C-ECAF4A6D9276}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 20.90091659227972
+      SNAPOFFS 0
+      LENGTH 4.79822580586205
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33521664 R
+      SEL 0
+      IGUID {138B02A0-6279-45D5-AD66-60041A44346C}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 16.9262591546301
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B34C2AAC-B446-4051-B847-99B33B163CFE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 25.69914239814177
+      SNAPOFFS 0
+      LENGTH 18.36404190802605
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {E6DF035C-756E-475E-B980-92E465B19537}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 21.72448496049215
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4BB65740-3860-4793-AFCF-20172EA2C418}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 44.06318430616782
+      SNAPOFFS 0
+      LENGTH 18.35089656665495
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {D2C2A67C-0817-4398-9FD3-86B8A9FEECFB}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 40.0885268685182
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FF194FFB-5810-44A2-922A-E92B7DA7F18A}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 62.41408087282277
+      SNAPOFFS 0
+      LENGTH 18.10113508042954
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {E0F39C24-7154-4585-B1E7-2241183AA472}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 58.43942343517315
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4AC952E6-3735-43C0-B29E-F78B78FC6BFE}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 80.51521595325231
+      SNAPOFFS 0
+      LENGTH 36.6755024505502
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842496 R
+      SEL 0
+      IGUID {D61BA73A-DC87-4858-881B-ADB555C35C99}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 76.5405585156027
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5EE24A86-1FAB-4551-9891-0AB9B9CE4D72}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 117.19071840380251
+      SNAPOFFS 0
+      LENGTH 18.21944315285525
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16842751 R
+      SEL 0
+      IGUID {CA1ED896-CFA5-435C-AC84-B4B5BD3FF3CE}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 113.2160609661529
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1B8D235A-0397-471E-9EA2-1AA705D7766C}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 135.41016155665776
+      SNAPOFFS 0
+      LENGTH 27.23714733962257
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {02C896BE-B890-497B-8C25-39008665C4D5}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 131.43550411900816
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C7E8F018-D001-4C80-A729-D887F86E6945}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 162.64730889628032
+      SNAPOFFS 0
+      LENGTH 26.94794982925646
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 33489024 R
+      SEL 0
+      IGUID {7B9A7B08-6BAC-4EC7-95CA-369E9C2292DF}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 158.67265145863072
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F33409A0-EBCC-4525-B85E-9E883550DAF2}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 189.59525872553678
+      SNAPOFFS 0
+      LENGTH 35.78161923669632
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 16777471 R
+      SEL 0
+      IGUID {E60FD5BA-F562-47F9-AD55-4E50EC58A5A4}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 185.62060128788718
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {55F80427-A5CC-4C80-8061-A9025681E3BB}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 225.3768779622331
+      SNAPOFFS 0
+      LENGTH 67.66163480663857
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      COLOR 25198656 R
+      SEL 0
+      IGUID {461A9A99-269D-489D-896E-F4010B3704E5}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 221.4022205245835
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {058D2892-729B-4BDD-A224-DF34A2F821EF}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
+      >
+    >
+    <ITEM
+      POSITION 293.03851276887167
+      SNAPOFFS 0
+      LENGTH 29.18914466877791
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {33AB5D82-50F4-4ED0-B84A-BAD8C14DD0D8}
+      IID 2
+      NAME "Jeremy-drums-A minor-107bpm-444hz.m4a"
+      VOLPAN 1 0 1 -1
+      SOFFS 289.06385533122204
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2E1EE643-80BE-474A-90DA-EC883A5E2F65}
       <SOURCE VIDEO
         FLIP 0 1
         FILE "audio-in\Jeremy-drums-A minor-107bpm-444hz.m4a"
@@ -614,7 +901,7 @@
       FADEIN 1 0 0 1 0 0 0
       FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
-      SEL 1
+      SEL 0
       IGUID {C28CF4F0-033F-4C87-AC9E-FB4D8F5DFD9B}
       IID 7
       NAME "untitled MIDI item"
